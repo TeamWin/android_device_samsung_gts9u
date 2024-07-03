@@ -1,4 +1,4 @@
-# TWRP & OrangeFox Device Tree for Samsung Galaxy Tab S9 Ultra
+# TWRP Device Tree for Samsung Galaxy Tab S9 Ultra
 
 ## Clone repo
 ```bash 
